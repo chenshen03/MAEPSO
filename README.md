@@ -6,4 +6,4 @@
 
 作者：陈燊，厦门大学计算机系MAC实验室
 
-                                           Copyright © CHEN Shen 2018
+                                           Copyright © Shen Chen 2018
